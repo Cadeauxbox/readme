@@ -137,6 +137,11 @@ a:hover, a:focus, a:active {
   transform-origin: 10% 10%;
 }
 
+
+.prefero{
+  color: red;
+}
+
 .probootstrap-navbar .navbar-toggle span:nth-child(3) {
   opacity: 0;
 }
@@ -831,6 +836,7 @@ section[data-section="menu"] {
   }
 }
 
+
 .probootstrap-footer-social li {
   display: inline;
   padding: 0;
@@ -847,9 +853,15 @@ section[data-section="menu"] {
   padding-left: 0;
 }
 
+/* TEST =========== */
+
+
+
+/*  3 Images =========== */
 .probootstrap-block-image {
   background: #ffffff;
   margin-bottom: 30px;
+  border-radius: 20px;
 }
 
 .probootstrap-block-image figure img {
@@ -858,6 +870,7 @@ section[data-section="menu"] {
 
 .probootstrap-block-image .text {
   padding: 20px;
+  
 }
 
 .probootstrap-block-image .text .date {
